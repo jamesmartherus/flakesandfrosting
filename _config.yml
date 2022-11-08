@@ -1,7 +1,7 @@
 site: Flakes and Frosting
 
-url: https://jamesmartherus.github.io
-baseurl: /flakesandfrosting
+url: https://www.flakesandfrosting.com
+baseurl:
 
 collections:
   pages:
