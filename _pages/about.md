@@ -1,6 +1,6 @@
 ---
 title: About Flakes and Frosting
-subtitle: Hi, i'm Haleigh!.
+subtitle: Hi, I'm Haleigh!.
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
