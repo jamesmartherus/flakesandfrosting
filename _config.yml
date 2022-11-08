@@ -1,7 +1,7 @@
-site: Duet Jekyll Theme
+site: Flakes and Frosting
 
-url: 
-baseurl: 
+url: https://jamesmartherus.github.io
+baseurl: /flakesandfrosting
 
 collections:
   pages:

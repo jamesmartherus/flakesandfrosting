@@ -1,6 +1,6 @@
 basic_settings:
-  site_title: Duet
-  favicon_image: /images/favicon.png
+  site_title: Flakes and Frosting
+  favicon_image: /images/cake.png
 
 header_settings:
   logo_image: 
@@ -35,7 +35,7 @@ contact_settings:
 social_settings:
   facebook_url: ''
   twitter_url: ''
-  instagram_url: ''
+  instagram_url: 'https://www.instagram.com/flakesandfrosting/'
   snapchat_url: ''
   youtube_url: ''
   google-plus_url: ''
