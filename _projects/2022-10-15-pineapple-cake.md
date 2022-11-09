@@ -1,7 +1,7 @@
 ---
 title: 'Dole Whip Cake'
 subtitle: 'Tastes like paradise'
-date: 
+date: 2022-10-15
 description: 
 featured_image: '/images/pineapple-cake.png'
 ---

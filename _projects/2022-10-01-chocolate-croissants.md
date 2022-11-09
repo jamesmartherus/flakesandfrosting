@@ -1,7 +1,7 @@
 ---
 title: 'Pan au Chocolate'
 subtitle: 'Flaky and Rich'
-date: 
+date: 2022-10-01
 description: 
 featured_image: '/images/croissant-cs.png'
 ---
