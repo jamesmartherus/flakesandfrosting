@@ -59,12 +59,12 @@ social_settings:
   linkedin_url: ''
 
 color_settings:
-  background_color: '#ffffff'
+  background_color: '#d0d8cc'
   background_alt_color: '#f4f5f6'
   text_dark_color: '#2A2F36'
   text_medium_color: '#6C7A89'
   text_light_color: '#ABB7B7'
-  accent_color: '#F2784B'
+  accent_color: '#ccd6d8'
   border_color: '#dddddd'
   overlay_background_color: '#F2784B'
   overlay_text_color: '#ffffff'
