@@ -12,6 +12,10 @@ menu_settings:
       url: '/'
     - title: 'Hi, I'm Haleigh'
       url: '/about'
+    - title: 'Cakes'
+      url: '/cakes'
+    - title: 'Pastries'
+      url: '/pastries'
     - title: 'Order'
       url: '/order'
 
